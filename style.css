@@ -61,6 +61,7 @@ body {
 
 .card-1 {
   width: 100%;
+
   margin: 0px 15px;
   padding: 20px;
   border-radius: 15px;
@@ -111,6 +112,10 @@ footer h1 {
 .bonus-area {
   text-align: center;
   padding: 50px;
+}
+
+.bonus-area p {
+  padding: 0px 400px;
 }
 
 .bonus-area h1 {
